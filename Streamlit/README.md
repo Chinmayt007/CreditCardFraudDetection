@@ -1,0 +1,13 @@
+# Screenshots Of The UI
+![Screenshot (68)](https://user-images.githubusercontent.com/68558167/146406207-4561e03d-1097-4f85-ab25-67666114b94a.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/68558167/146406306-ad714b0b-f90f-4827-9805-633df876e0dc.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/68558167/146406320-6edc1e3d-91b4-45d6-bc34-7b3741066167.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/68558167/146406331-f0a8fd1c-5bf7-4fd9-a9c7-8391af5c39f3.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/68558167/146406340-8f4d6a13-af03-4501-9ee2-f78018226adc.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/68558167/146406351-8ee20227-bf75-4728-be2d-ceee18c2980b.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/68558167/146406364-52de7ad3-3cb9-4a97-b2bf-53fbcf471a48.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/68558167/146406381-560aa4f8-22f2-4b12-850c-e2bf8806ea5f.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/68558167/146406544-2c0342df-2163-43d4-9b37-d86e7ef8ccae.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/68558167/146406556-59e04c4f-b8f4-44d2-a9ed-1f2d322170ce.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/68558167/146407433-65b52b61-c7bc-4d15-a0d9-d1d075c46d40.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/68558167/146407444-5d2230db-3736-4769-b800-290349665fbd.png)
