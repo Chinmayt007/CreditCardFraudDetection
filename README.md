@@ -8,7 +8,7 @@
 * Python 3.10.0 or later
 * Jupyter Notebook
 
-# Install the following dependencies in CMD or Anaconda Prompt
+# Install the following dependencies in CMD or Anaconda Prompt:
 * pip install streamlit
 * pip install sklearn
 * pip install imblearn
