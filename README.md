@@ -1,6 +1,9 @@
 # Credit Card Fraud Detection System !
 * Credit card fraud is without a doubt an act of criminal dishonesty. The model helps in detecting the fraud by applying various Machine Learning Algorithms on the dataset available at kaggle.
 
+# Video Presentation:
+* https://drive.google.com/file/d/12LSnxsnVx9HNljuSDslnajW8Pm0IRyvh/view?usp=sharing
+
 # Download the dataset from the below mentioned link: 
 * https://www.kaggle.com/mlg-ulb/creditcardfraud
 * This dataset works perfectly well with both Jupyter Notebook and Streamlit applications.
